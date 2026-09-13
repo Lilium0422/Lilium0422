@@ -30,7 +30,7 @@
 ![Kiro](https://img.shields.io/badge/Kiro-7B61FF?style=flat)
 <br/>
 
-### 🤝 Collaboration & Tools
+### 🤝 Collaboration
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
